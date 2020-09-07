@@ -52,7 +52,7 @@ export default {
                 },
                 {
                     title: 'お問い合わせ',
-                    link: '#'       
+                    link: '/customer'       
                 }
             ]
 
